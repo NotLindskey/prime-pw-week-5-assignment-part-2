@@ -1,13 +1,13 @@
-header {
+.header {
     background-color: darkcyan;
     color: rgba(191, 11, 191, 100);
     text-align: center;
 }
-main {
+.main {
     background-color: lightgrey;
 }
 
-body {
+.body {
     background-image: url("./record.png");
     background-repeat: repeat;
     margin: 0;
