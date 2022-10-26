@@ -1,3 +1,8 @@
-p {
-    background-color: green;
+header {
+    background-color: darkcyan;
+    color: rgba(191, 11, 191, 100);
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
 }
